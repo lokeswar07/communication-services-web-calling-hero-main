@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5221e352-73e3-4f4f-929a-20d0440a8be4/resourceGroups/liveTrans/providers/Microsoft.Web/sites/liveTalksLoki",
+    "appService.deploySubpath": "Calling\\dist"
+}
